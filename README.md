@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Connor Lance
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js. And planning on learning express and then react.
+- ⚡ I currently know Java, PHP, Javascript, SQL, HTML, and CSS.
+- ⚡ I’m currently learning node.js, express, and ejs. And then planning on learning react.
 
 <!---
 connorlance/connorlance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
