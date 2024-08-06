@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor Lance
 - 👀 I’m interested in web development
-- ⚡ I currently know Java, PHP, Javascript, SQL, HTML, and CSS.
+- ⚡ I currently know Java, PHP, Javascript, Python, SQL, HTML, and CSS.
 - ⚡ I’m currently learning node.js, express, and ejs. And then planning on learning react.
 
 <!---
